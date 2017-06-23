@@ -13,7 +13,7 @@ h1 {
 	font-family: "Raleway";
 	color: #0D2C40;
 	letter-spacing: 1px;
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 45px;
 	margin: 0;
 }
@@ -25,7 +25,7 @@ nav {
 
 a {
 	font-family: "Raleway";
-	color: #F15B31;
+	color: white;
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
@@ -91,4 +91,16 @@ footer {
 .name {
 	color: #F15B31;
 	font-weight: 700;
+}
+
+.reset {
+	font-family: "Raleway";
+	font-size: 18px;
+	font-weight: 500;
+	color: white;
+	border: #F15B31 solid;
+	border-radius: 5px;
+	background: #F15B31;
+	padding: 0 2px 0 2px;
+	margin-top: 20px;
 }
